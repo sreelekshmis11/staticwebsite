@@ -1,0 +1,51 @@
+.head{
+    color:#ff3399;
+    text-decoration:none;
+    font-size:30px;
+    font-weight:900;
+    padding-left:30px;
+}
+.container-fluid{
+    text-align:right;
+}
+.options{
+    
+    position:absolute;
+    right:0;
+    padding-right:40px;
+}
+ image{
+     opacity:0.8;
+ }
+ .image{
+     position:absolute;
+     
+ }
+ .text{
+     background-color:rgba(0,0,0,0.3);
+     padding:50px;
+ }
+ .text{
+    
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color:white;
+  font-weight:500;
+  font-size:30px;
+
+ }
+ .textsub{
+     top:60%;
+ }
+ .heading{
+     padding-top:30px;
+ }
+
+.buttonn{
+    position: absolute;
+  top: 57%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
